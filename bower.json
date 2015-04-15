@@ -4,7 +4,6 @@
     "main": [
         "css/materialdesignicons.css",
         "fonts/*",
-        "css/*",
         "scss/*",
         "package.json",
         "preview.html"
